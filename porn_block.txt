@@ -11876,3 +11876,6 @@
 0.0.0.0 www.tbib.org
 0.0.0.0 www.xdeutschpornox.com
 0.0.0.0 www.yato.com
+########################################
+0.0.0.0 porno.nl
+0.0.0.0 www.porno.nl
